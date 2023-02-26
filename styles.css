@@ -1,2 +1,36 @@
-
+.container{
+	display:flex;
+	justify-content:center;
+	flex-wrapwrap;
+	
+	
+	
+	
+}
+.flex1{
+	border:2px solid red;
+	width:50px;
+	height:50px;
+	background:red;
+	
+	
+}
+.flex2{
+	
+	border:2px solid red;
+	width:50px;
+	height:50px;
+	background:blue;
+	
+	
+}
+.flex3{
+	
+	border:2px solid red;
+	width:50px;
+	height:50px;
+	background:green;
+	
+	
+}
 /* Your CSS Code here. */
